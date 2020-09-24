@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\components\\views",
+    "\\client\\src\\components\\views\\LandingPage",
+    "\\client\\src\\components\\views\\LandingPage\\Sections",
+    "\\client\\src\\components\\views\\RegisterPage",
+    "\\server",
+    "\\server\\config"
+  ],
+  "SelectedNode": "\\client\\src\\components\\views\\LandingPage\\Sections\\Mainimage.js",
+  "PreviewInSolutionExplorer": false
+}
