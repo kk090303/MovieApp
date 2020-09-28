@@ -5,12 +5,13 @@
     "\\client\\src",
     "\\client\\src\\components",
     "\\client\\src\\components\\views",
+    "\\client\\src\\components\\views\\commons",
     "\\client\\src\\components\\views\\LandingPage",
     "\\client\\src\\components\\views\\LandingPage\\Sections",
     "\\client\\src\\components\\views\\RegisterPage",
     "\\server",
     "\\server\\config"
   ],
-  "SelectedNode": "\\client\\src\\components\\views\\LandingPage\\LandingPage.js",
+  "SelectedNode": "\\client\\src\\components\\views\\commons\\GridCards.js",
   "PreviewInSolutionExplorer": false
 }
